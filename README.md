@@ -1,4 +1,5 @@
 # professional-portfolio
+
 ### A professional portfolio with all my progress in Data Science career.
 
 The purpose of this repository is to create a place where I can upload all my code and applications developed by me in this new career ... Data Science.
@@ -8,4 +9,4 @@ I keep developing, improving and hopefully soon become a Data Scientist.
 
 ### List of Projects
 
-** 1 - Twitter Sentiment Analysis with Python (Completed) ---> https://github.com/fsolares/Twitter_Sentiment_Analysis**<br>
+**1 - Twitter Sentiment Analysis with Python (Completed) ---> https://github.com/fsolares/Twitter_Sentiment_Analysis**<br>
