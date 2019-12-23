@@ -1,5 +1,5 @@
 # professional-portfolio
-A professional portfolio with all my progress in Data Science career.
+## A professional portfolio with all my progress in Data Science career.
 
 The purpose of this repository is to create a place where I can upload all my code and applications developed by me in this new career ... Data Science.
 It will function as a personal and professional portfolio and as a guide for all beginners trying to learn about this amazing career.
