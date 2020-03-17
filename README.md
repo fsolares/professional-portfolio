@@ -1,4 +1,4 @@
-# professional-portfolio
+# Professional-portfolio
 
 ### A professional portfolio with all my progress in Data Science career.
 
@@ -9,4 +9,5 @@ I keep developing, improving and hopefully soon become a Data Scientist.
 
 ### List of Projects
 
-**1 - Twitter Sentiment Analysis with Python (Completed) ---> https://github.com/fsolares/Twitter_Sentiment_Analysis**<br>
+**1 - Python - Twitter Sentiment Analysis (Completed) ---> https://github.com/fsolares/Twitter_Sentiment_Analysis**<br>
+**2 - R - Credit Risk Analysis Sentiment Analysis (Completed) ---> https://github.com/fsolares/R-Credit_Risk_Analysis**<br>
