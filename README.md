@@ -9,7 +9,7 @@ I keep developing, improving and hopefully soon become a Data Scientist.
 
 Contact: solares.fs@gmail.com <br>
 LinkedIn: https://www.linkedin.com/in/felipesolares/ <br>
-Website: https://solaresfs.wixsite.com/felipesolares <br>
+Kaggle: https://www.kaggle.com/fsolares <br>
 
 ### List of Projects
 
