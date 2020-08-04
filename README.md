@@ -17,7 +17,7 @@ Kaggle: https://www.kaggle.com/fsolares <br>
 **2 - R - Credit Risk Analysis Sentiment Analysis (Completed) ---> https://github.com/fsolares/R-Credit_Risk_Analysis**<br>
 **3 - R - Twitter Sentiment Analysis (Completed) ---> https://github.com/fsolares/R-Twitter_Sentiment_Analysis**<br>
 **4 - R - Zika Virus Geospatial Analysis (Completed) ---> https://github.com/fsolares/R-Zika_Virus_Geospatial_Analysis**<br>
-**5 - Python - COVID-19 Geospatial Analysis (On going!) ---> https://github.com/fsolares/Python-COVID-19_Geospatial_Analysis**<br>
+**5 - Python - COVID-19 Geospatial Analysis (Completed) ---> https://github.com/fsolares/Python-COVID-19_Geospatial_Analysis**<br>
 **6 - Python - COVID-19 Data Web Scraping (On going!) ---> https://github.com/fsolares/Python-COVID-19_Data_Web_Scraping**<br>
 
 
